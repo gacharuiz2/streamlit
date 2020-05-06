@@ -1,5 +1,5 @@
-mkdir -p ~ / .streamlit 
-echo “[servidor] 
-sin cabeza = 
-puerto verdadero = $ PORTenableCORS = falso 
-”> ~ / .streamlit / config.toml
+mkdir -p ~/.streamlit 
+echo “[server]
+headless = true
+port = $PORTenableCORS = false
+” > ~/.streamlit/config.toml
