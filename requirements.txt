@@ -1,2 +1,2 @@
 streamlit == 0.59.0
-Pillow == 7.1.2
+Pillow == 10.0.1
